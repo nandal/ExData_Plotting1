@@ -1,4 +1,6 @@
 ## Introduction
+## Exploratory Data Analysis of Household Power Consumption
+Week 1 Assignment
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
